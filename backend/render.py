@@ -101,7 +101,7 @@ def start_ffmpeg(channel_name):
 
 if __name__ == "__main__":
     # IP do servidor
-    server_ip = 'livepub.ddns.net'
+    server_ip = 'localhost'
     
     # Configura o servidor HTTP na porta 3389
     server_address = ('', 3389)
