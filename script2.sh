@@ -8,8 +8,9 @@ sleep 3
 sudo service nginx stop
 sudo rm -r /var/www/html
 cd /var/www/
-wget https://github.com/op3ny/LivePub/blob/main/LivePub-en-us.zip
+wget https://github.com/op3ny/LivePub/raw/main/LivePub-en-us.zip
 unzip LivePub-en-us.zip
+cp LivePub-en-us.zip main.zip
 sudo mkdir /root/livepub
 cp main.zip /root/livepub/main.zip
 mv /var/www/html/LivePub-en-us.zip /root/livepub/livepub-bkp.zip
