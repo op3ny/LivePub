@@ -54,7 +54,7 @@ wget https://raw.githubusercontent.com/op3ny/LivePub/main/script.sh
 VERSION IN PORTUGUESE / VERÇÃO EM PORTUGUES ------^
 
 ```
-wget https://github.com/op3ny/LivePub/raw/main/script2.sh
+wget https://raw.githubusercontent.com/op3ny/LivePub/main/script2.sh
 ```
 VERSION IN ENGLISH / VERÇÃO EM INGLES ---------^
 ```
