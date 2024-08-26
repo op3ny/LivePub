@@ -95,6 +95,21 @@ Change 127.0.0.1 to your pc's public ip.
 /var/www/html/backend/delete-channel.html - Line 10
 Change 127.0.0.1 to your pc's public ip.
 
+/var/www/html/backend/render.py - Line 68
+Change livepub.ddns.net to your pc'a public ip.
+
+You need to open the ports:
+
+3398 - Delete channel service
+3389 - Create channel service
+1935 - RTMP port
+80 - HTTP port
+
+# You will need to change always!
+
+/var/www/html/backend/render.py - Line 68
+Change livepub.ddns.net to your pc'a public ip.
+
 You need to open the ports:
 
 3398 - Delete channel service
