@@ -82,6 +82,15 @@ livepub-stop
 Stop the LivePub
 
 
+# You will use on another pc (Isn't at localhost)
+
+If you aren't using that on your own pc, you need to change:
+
+/var/www/html/backend/render.py - Line: 104
+
+Change localhost to your pc's public ip.
+
+
 # Another Readme
 
 [README in Portuguese / README em Portugues](README-pt-br.md)
