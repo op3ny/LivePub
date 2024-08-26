@@ -80,6 +80,17 @@ E você precisa abrir as portas:
 1935 - RTMP port
 80 - HTTP port
 
+# Você terá que alterar sempre!
+
+/var/www/html/backend/render.py - Line 68
+Change livepub.ddns.net to your pc'a public ip.
+
+You need to open the ports:
+
+3398 - Delete channel service
+3389 - Create channel service
+1935 - RTMP port
+80 - HTTP port
 
 
 # Novos comandos!
