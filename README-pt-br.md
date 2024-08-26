@@ -36,7 +36,7 @@ sudo su
 apt update && apt upgrade -y
 ```
 ```
-apt update wget curl -y
+apt install wget curl -y
 ```
 ```
 wget ​​https://raw.githubusercontent.com/op3ny/LivePub/main/script.sh
