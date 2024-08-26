@@ -72,6 +72,15 @@ Change 127.0.0.1 to your pc's public ip.
 /var/www/html/backend/create-channel.html - Line 10
 Change 127.0.0.1 to your pc's public ip.
 
+E você precisa abrir as portas:
+
+
+3398 - Delete channel service
+3389 - Create channel service
+1935 - RTMP port
+80 - HTTP port
+
+
 
 # Novos comandos!
 
