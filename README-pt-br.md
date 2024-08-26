@@ -59,6 +59,20 @@ Ao final você precisa reiniciar sua máquina, com este comando:
 reboot
 ```
 
+# Você está usando isso em outro pc (Sem ser localhost)
+
+Se você não está usando o LivePub em seu próprio pc, você precisa alterar:  
+
+/var/www/html/backend/render.py - Line: 104
+Change localhost to your pc's public ip.
+
+/var/www/html/backend/create-channel.html - Line 9
+Change 127.0.0.1 to your pc's public ip.
+
+/var/www/html/backend/create-channel.html - Line 10
+Change 127.0.0.1 to your pc's public ip.
+
+
 # Novos comandos!
 
 No seu sistema, você terá três novos comandos (funciona apenas no root)
