@@ -87,8 +87,14 @@ Stop the LivePub
 If you aren't using that on your own pc, you need to change:
 
 /var/www/html/backend/render.py - Line: 104
-
 Change localhost to your pc's public ip.
+
+/var/www/html/backend/create-channel.html - Line 9
+Change 127.0.0.1 to your pc's public ip.
+
+/var/www/html/backend/create-channel.html - Line 10
+Change 127.0.0.1 to your pc's public ip.
+
 
 
 # Another Readme
