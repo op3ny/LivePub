@@ -92,7 +92,7 @@ Change localhost to your pc's public ip.
 /var/www/html/backend/create-channel.html - Line 9
 Change 127.0.0.1 to your pc's public ip.
 
-/var/www/html/backend/create-channel.html - Line 10
+/var/www/html/backend/delete-channel.html - Line 10
 Change 127.0.0.1 to your pc's public ip.
 
 You need to open the ports:
