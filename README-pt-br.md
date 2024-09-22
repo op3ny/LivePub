@@ -87,10 +87,10 @@ Change livepub.ddns.net to your pc'a public ip.
 
 You need to open the ports:
 
-3398 - Delete channel service
-3389 - Create channel service
-1935 - RTMP port
-80 - HTTP port
+3398 - Delete channel service  /  
+3389 - Create channel service  /  
+1935 - RTMP port  /  
+80 - HTTP port  /  
 
 
 # Novos comandos!
