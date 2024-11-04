@@ -1,4 +1,3 @@
-#! /bin/bash
 sudo apt update
 sudo apt upgrade -y
 sudo apt install nginx python3-pip python3 ffmpeg unzip libnginx-mod-rtmp -y
