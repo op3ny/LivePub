@@ -20,7 +20,7 @@ Hello! Welcome to LivePub's Github. The LivePub is a Open Source project witch w
 
 # Let's Start!
 
-Okey, before you start, you need to try use our demo of the LivePub (You can acess by: [Click here to open](http://livepub.ddns.net/livepub)).
+Okey, before you start, you need to try use our demo of the LivePub (You can acess by: [Click here to open](https://hsyst.com.br/etc/playstube/old/index.html)).
 
 This website will run locally on your computer, and i will explain how.
 
