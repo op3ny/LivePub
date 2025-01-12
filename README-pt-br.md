@@ -10,7 +10,7 @@ Olá! Bem-vindo ao Github do LivePub. O LivePub é um projeto Open Source que ir
 
 # Vamos começar!
 
-Ok, antes de começar, você precisa tentar usar nossa demonstração do LivePub (Você pode acessar por: [Clique aqui para abrir](http://livepub.ddns.net)).
+Ok, antes de começar, você precisa tentar usar nossa demonstração do LivePub (Você pode acessar por: Num existe mais, boa sorte aê... ).
 
 Este site será executado localmente no seu computador e explicarei como.
 
